@@ -13,14 +13,14 @@ function initializePage() {
 	$("a.friendname").click(projectClick);
 }
 
-function projectClick(e) {
+/*function projectClick(e) {
 	e.preventDefault();
 	 var new_name = $(this).text().replace(" ", "");
 	 console.log(new_name);
 	 var ana_name = anagrammedName(new_name);
 	 console.log(ana_name);
 }
-
+*/
 function anagrammedName(name) {
 	// Thanks, Internet Anagram Server!
 	
