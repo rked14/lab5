@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	console.log("Javascript connected!");
-	$("a.friendname").click(projectClick);
+	//$("a.friendname").click(projectClick);
 }
 
 /*function projectClick(e) {

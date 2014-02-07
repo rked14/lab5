@@ -29,12 +29,6 @@
 			"name": "Allen Newell",
 			"description": "Really into psychology",
 			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
-		},
-		/*{
-			"name": "Fake Name",
-			"description": "This is a fake test",
-			"imageURL": "http://lorempixel.com/400/400/people"
-		}*/
-
+		}
 	]
 }
